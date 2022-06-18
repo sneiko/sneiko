@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Serget
+### Sergey Neykovich
 #### I am is Golang/.NET/iOS Developer
 
 I am glad that you came to my profile and I hope it will somehow help you in your projects. You can always contact me and I'm always happy to help.
