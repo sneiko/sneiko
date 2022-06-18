@@ -17,6 +17,4 @@ Skills: Go / .NET / iOS / Angular / Flutter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sneiko&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/sneiko)  
-
 ![Profile views](https://gpvc.arturio.dev/sneiko)  
