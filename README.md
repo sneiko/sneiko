@@ -4,7 +4,7 @@
 I am glad that you came to my profile and I hope it will somehow help you in your projects. You can always contact me and I'm always happy to help.
 Enjoy!
 
-Skills: Go / .NET / iOS / Angular / Flutter
+Skills: Go / .NET / Android / Flutter / iOS / Vue / Angular 
 
 - 🌱 I’m currently learning Golang 
 - 💬 Ask me about Go/.NET/iOS 
