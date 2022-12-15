@@ -7,7 +7,7 @@ Enjoy!
 Skills: Go / .NET / Android / Flutter / iOS / Vue / Angular 
 
 - 🌱 I’m currently learning Golang 
-- 💬 Ask me about Go/.NET/iOS 
+- 💬 Ask me about .NET || Android
 - ⚡ Fun fact: I'm drifter =D 
 
 
