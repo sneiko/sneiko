@@ -1,10 +1,10 @@
 ### Sergey Neykovich
-#### I am is Golang/.NET/iOS Developer
+#### I am is Golang/.NET
 
 I am glad that you came to my profile and I hope it will somehow help you in your projects. You can always contact me and I'm always happy to help.
 Enjoy!
 
-Skills: Go / .NET / Android / Flutter / iOS / Vue / Angular 
+Skills: Go / .NET / Android / Flutter / iOS / Vue / Angular / React
 
 - 🌱 I’m currently learning Golang 
 - 💬 Ask me about .NET || Android
