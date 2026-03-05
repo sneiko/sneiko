@@ -64,7 +64,7 @@ I bridge cutting-edge tech (AI, distributed systems, embedded) and practical exe
 - Designed event-driven architectures processing millions of messages daily
 - Mentored engineering teams, established coding standards and review culture
 
-### 🔬 CTO — ApeFlow
+### 🔬 Tech Lead — ApeFlow
 > Startup — workflow automation
 
 - Built the core platform and engineering team from zero
