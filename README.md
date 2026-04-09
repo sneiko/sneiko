@@ -44,7 +44,7 @@ I bridge cutting-edge tech (AI, distributed systems, embedded) and practical exe
 
 ## 💼 Experience
 
-### 🛒 Team Lead — M-Video
+### 🛒 M-Video
 > Logistics carrier platform
 
 `Go` `SAP Integration` `Microservices` `Kafka`
@@ -55,7 +55,7 @@ I bridge cutting-edge tech (AI, distributed systems, embedded) and practical exe
 - Developed a **carrier rating & evaluation system** — real-time KPI tracking, SLA monitoring, and data-driven carrier ranking
 - Streamlined end-to-end transportation workflows for one of Russia's largest electronics retailers
 
-### 🛍️ Lead Golang Developer — Wildberries
+### 🛍️ Wildberries
 > Logistics & platform services at Russia's largest marketplace
 
 `Go` `Kafka` `Kubernetes` `PostgreSQL` `gRPC`
@@ -64,7 +64,7 @@ I bridge cutting-edge tech (AI, distributed systems, embedded) and practical exe
 - Designed event-driven architectures processing millions of messages daily
 - Mentored engineering teams, established coding standards and review culture
 
-### 🔬 Tech Lead — ApeFlow
+### 🔬 ApeFlow
 > Startup — workflow automation
 
 - Built the core platform and engineering team from zero
