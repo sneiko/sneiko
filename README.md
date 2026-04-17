@@ -49,7 +49,7 @@ I bridge cutting-edge tech (AI, distributed systems, embedded) and practical exe
 
 `Go` `SAP Integration` `Microservices` `Kafka`
 
-- Led the design and development of a **logistics carrier platform** — carrier onboarding, route management, and performance analytics
+- Design and development of a **logistics carrier platform** — carrier onboarding, route management, and performance analytics
 - Built deep **SAP integration** layer for seamless data exchange between logistics and ERP systems
 - Implemented **carrier security assessment** module (DD integration) — automated background checks and compliance scoring
 - Developed a **carrier rating & evaluation system** — real-time KPI tracking, SLA monitoring, and data-driven carrier ranking
