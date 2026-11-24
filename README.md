@@ -22,25 +22,26 @@ I bridge cutting-edge tech (AI, distributed systems, embedded) and practical exe
 
 ## 🔭 Current Roles
 
-### 📦 Co-Founder & CTO — Vaulto
-> Next-gen warehouse management system
+### 🚗 Co-Founder & CTO — Partera.by
+> AI-powered vehicle damage assessment platform
 
-`Go` `Angular` `Kafka` `Kubernetes` `Microservices` `PostgreSQL`
+`Go` `Microservices` `Postgres` `Redis` `AI-Workflows` `Nats` `k8s` `React`
 
-- Designed and built a full WMS platform from scratch — microservice architecture, event-driven pipelines, real-time inventory tracking
-- Kafka-based SAGA orchestration for distributed transaction management
-- Multi-tenant architecture serving multiple warehouse operators
+- Designed and built a platform for automating vehicle inspections and damage assessments
+- Integrated AI-powered photo and document analysis to identify vehicle damage and extract data
+- Developed workflows for VIN decoding, vehicle configuration, parts selection, and repair cost estimation
+- Automated the generation of inspection reports and assessment documents, with expert review and quality control
 
-### 🏎️ CTO — AI Drift / Flux Engine
-> AI-controlled autonomous drift cars & vehicle control systems
+### 🚗 Co-Founder & CTO — Targa.by
+> Automotive marketplace for vehicles and spare parts in Belarus
 
-`Rust` `NVIDIA Jetson` `Embedded AI` `CAN Bus` `Edge Computing`
-
-- Developed the **world's first AI drift car** — full autonomy stack from perception to vehicle control
-- Reverse-engineered vehicle protocols (Tesla, Kia, Mercedes-Benz) for real-time CAN bus integration
-- Built safety-critical systems with hardware failovers and real-time telemetry
-
+- Designed and built an automotive marketplace for buying and selling vehicles and spare parts
+- Developed vehicle and parts catalogs with search, filters, and vehicle compatibility lookup by make, model, and VIN
+- Built listing workflows with moderation and an on-site chat connecting buyers and sellers
+- Created an automotive news section with articles and comments
+  
 ---
+
 
 ## 💼 Experience
 
@@ -54,6 +55,15 @@ I bridge cutting-edge tech (AI, distributed systems, embedded) and practical exe
 - Implemented **carrier security assessment** module (DD integration) — automated background checks and compliance scoring
 - Developed a **carrier rating & evaluation system** — real-time KPI tracking, SLA monitoring, and data-driven carrier ranking
 - Streamlined end-to-end transportation workflows for one of Russia's largest electronics retailers
+
+### 🏎️ CTO — AI Drift / Flux Engine
+> AI-controlled autonomous drift cars & vehicle control systems
+
+`Rust` `NVIDIA Jetson` `Embedded AI` `CAN Bus` `Edge Computing`
+
+- Developed the **world's first AI drift car** — full autonomy stack from perception to vehicle control
+- Reverse-engineered vehicle protocols (Tesla, Kia, Mercedes-Benz) for real-time CAN bus integration
+- Built safety-critical systems with hardware failovers and real-time telemetry
 
 ### 🛍️ Wildberries
 > Logistics & platform services at Russia's largest marketplace
