@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Sergey Neykovich</h1>
 
 <p align="center">
-  <b>📣 Speaker</b> · <b>🚀 Startup Builder</b> · <b>📦 Vaulto Co-Founder & CTO</b> · <b>🏎️ AI Drift & 🤖 Flux Engine CTO</b>
+  <b>📣 Speaker</b> · <b>🚀 Startup Builder</b> · 🧑‍🔧 <a href="https://partera.by">Partera.by</a> | 🚗 <a href="https://targa.by">Targa.by</a> Co-Founder & CTO</b>
 </p>
 
 <p align="center">
@@ -14,9 +14,11 @@
 
 ## 🧭 About Me
 
-Technical Leader & Serial Startup Builder with deep expertise in **Go, AI, Distributed Systems, and Hardware-Software Integration**. I build products from 0→1 and scale them — from warehouse logistics platforms to the world's first AI-controlled drift car.
+I'm a technical leader who likes building things that move — from data through distributed systems to cars on a track.
 
-I bridge cutting-edge tech (AI, distributed systems, embedded) and practical execution: shipping products, scaling teams, and designing architectures that hold under real-world load.
+I've worked across logistics, marketplaces, AI, and autonomous vehicles, turning early ideas into products and tackling the engineering challenges that come with them. My background spans **Go, Rust, distributed systems, embedded AI, and vehicle integrations**.
+
+Today, I'm **Co-Founder & CTO of Partera.by and Targa.by**, building tools for vehicle assessment and the automotive market. I'm at my best where product thinking meets hands-on engineering: shaping the architecture, making the trade-offs, and getting the product into people's hands.
 
 ---
 
@@ -24,8 +26,6 @@ I bridge cutting-edge tech (AI, distributed systems, embedded) and practical exe
 
 ### 🚗 Co-Founder & CTO — Partera.by
 > AI-powered vehicle damage assessment platform
-
-`Go` `Microservices` `Postgres` `Redis` `AI-Workflows` `Nats` `k8s` `React`
 
 - Designed and built a platform for automating vehicle inspections and damage assessments
 - Integrated AI-powered photo and document analysis to identify vehicle damage and extract data
